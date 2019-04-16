@@ -8,7 +8,7 @@ Podgląd | Mapa | Jakość
 --------|------|-------
 todo | Województwa | <ul><li><a href="https://github.com/ppatrzyk/polska-geojson/raw/master/wojewodztwa/wojewodztwa-max.geojson">Najlepsza (8 mb)</a></li><li><a href="https://github.com/ppatrzyk/polska-geojson/raw/master/wojewodztwa/wojewodztwa-medium">Średnia (4 mb)</a></li><li><a href="https://github.com/ppatrzyk/polska-geojson/raw/master/wojewodztwa/wojewodztwa-min.geojson">Najgorsza (560 kb)</a></li></ul>
 todo | Powiaty | <ul><li><a href="https://github.com/ppatrzyk/polska-geojson/raw/master/powiaty/powiaty-max.geojson">Najlepsza (40 mb)</a></li><li><a href="https://github.com/ppatrzyk/polska-geojson/raw/master/powiaty/powiaty-medium.geojson">Średnia (17 mb)</a></li><li><a href="https://github.com/ppatrzyk/polska-geojson/raw/master/powiaty/powiaty-min.geojson">Najgorsza (3 mb)</a></li></ul>
-todo | Wrocław | <a href="https://github.com/ppatrzyk/polska-geojson/raw/master/miasta/wroclaw.geojson">Najlepsza (800 kb)</a>
+todo | Wrocław | <a href="https://github.com/ppatrzyk/polska-geojson/raw/master/miasta/wroclaw-max.geojson">Najlepsza (520 kb)</a><br><a href="https://github.com/ppatrzyk/polska-geojson/raw/master/miasta/wroclaw-medium.geojson">Średnia (120 kb)</a>
 
 ## Współpraca
 
