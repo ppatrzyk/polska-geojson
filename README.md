@@ -1,6 +1,6 @@
 # Polska geojson
 
-Mapy Polski w formacie *geojson*. Pliki są przekonwertowane z map w formacie *.shp* dostępnych w internecie. Dostępne również lżejsze, [uproszczone](https://github.com/maxogden/simplify-geojson) wersje.
+Mapy Polski w formacie *geojson*. Pliki są przekonwertowane z map w formacie *.shp* dostępnych w internecie. Dostępne również lżejsze, [uproszczone](https://mapshaper.org/) wersje.
 
 ## Dostępne mapy
 
